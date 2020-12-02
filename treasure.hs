@@ -1,0 +1,1 @@
+-- A strange try to represent Treasure dear in haskell
